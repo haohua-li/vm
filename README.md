@@ -1,23 +1,19 @@
-# vm
+# Virtual Machine
 
-[LordNoteworthy/cpu-internals: Intel / AMD CPU Internals (github.com)](https://github.com/LordNoteworthy/cpu-internals)
+## warmup
 
-[Wenzel/awesome-virtualization: Collection of resources about Virtualization (github.com)](https://github.com/Wenzel/awesome-virtualization)
+[Virtual Machines - red key concepts: virtualization, hypervisors (uwaterloo.ca)](https://student.cs.uwaterloo.ca/~cs350/F19/notes/wrapup-1up.pdf)
 
-[5 Days to Virtualization: A Series on Hypervisor Development - Reverse Engineering](https://revers.engineering/7-days-to-virtualization-a-series-on-hypervisor-development/)
+> Can the VM disable interrupts on the physical CPU? Should it be able to?
 
-[Hypervisor From Scratch - Part 1: Basic Concepts & Configure Testing Environment - Sina & Shahriar's Blog (rayanfam.com)](https://rayanfam.com/topics/hypervisor-from-scratch-part-1/)
+### Hypervisor
 
-#### Hyper-V Internals 
+- Type 1 (“bare-metal” hypervisor)
+  - Hyper-V , Xen, KVM 
+- Type 2 : 
+  - Oracle Virtual Box
 
-[Hyper-V-Internals/Hyper-V components.pdf at master · gerhart01/Hyper-V-Internals (github.com)](https://github.com/gerhart01/Hyper-V-Internals/blob/master/Hyper-V components.pdf)
+---
 
-[Hyper-V Internals (hvinternals.blogspot.com)](http://hvinternals.blogspot.com/)
+[vmbus 分析 一 – 夕月阁 (tecyle.com)](http://www.tecyle.com/2019/06/01/vmbus-分析/)
 
-[gerhart01/Hyper-V-Internals: Internals information about Hyper-V (github.com)](https://github.com/gerhart01/Hyper-V-Internals)
-
-#### Developers
-
-[SinaKarvandi (Mohammad Sina Karvandi) (github.com)](https://github.com/SinaKarvandi)
-
-[tandasat (Satoshi Tanda) (github.com)](https://github.com/tandasat)
