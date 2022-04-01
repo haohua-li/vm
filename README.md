@@ -2,6 +2,8 @@
 
 ## 参考书
 
+*[Intel® 64 and IA-32 Architectures Software Developer’s Manual, Volume 3A: System Programming Guide, Part 1](https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-vol-3a-part-1-manual.pdf)*
+
 *Virtual machines versatile platforms for systems and processes* by Smith J.E., Nair R.
 
 *Advanced Design and Implementation of Virtual Machines* by Xiao-Feng Li 
@@ -38,6 +40,10 @@
 ## 源码分析
 
 ### Xen
+
+[Release RELEASE-2.0.0: bitkeeper revision 1.1159.1.385 (418b582ajt_xRJBZ_QltlCQBhLkgkQ) · xen-project/xen (github.com)](https://github.com/xen-project/xen/releases/tag/RELEASE-2.0.0)
+
+推荐从低版本开始看源码，因为最新的代码一般都看不懂。
 
 [paper.dvi (cam.ac.uk)](https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf)
 
