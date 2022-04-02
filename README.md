@@ -1,5 +1,9 @@
 # Virtual Machine
 
+## WSL2 
+WSL2 已经用上了 HyperV , WSL2 的内核是开源的，可以对比一下与 Linux Kernel 的区别。
+
+
 ## 参考书
 
 *[Intel® 64 and IA-32 Architectures Software Developer’s Manual, Volume 3A: System Programming Guide, Part 1](https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-vol-3a-part-1-manual.pdf)*
