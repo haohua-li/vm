@@ -3,6 +3,8 @@
 ## WSL2 
 WSL2 已经用上了 HyperV , WSL2 的内核是开源的，可以对比一下与 Linux Kernel 的区别。
 
+https://github.com/microsoft/WSL2-Linux-Kernel
+
 
 ## 参考书
 
